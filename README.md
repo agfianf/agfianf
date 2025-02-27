@@ -5,24 +5,25 @@
 <a href="https://agfianf.github.io/about/" target="_blank"><img alt="About Me" src="https://img.shields.io/badge/About-Me-gray?style=for-the-badge"/></a>
 </p>
 
-Experienced AI Engineer and Software Engineer from Indonesia with over 4 years of professional expertise. I specialize in building robust AI and Machine Learning systems, with particular focus on Computer Vision technologies. I've successfully implemented AI solutions across diverse domains including Agriculture, Aquaculture, and Satellite imaging. My current interests include advancing my knowledge in MLOps, LLMs, and Rust.
-
+AI Engineer and Software Engineer from Indonesia with 4+ years of experience. I'm a self-learner who thrives on exploration and continuous growth. I love building AI and Machine Learning systems, especially in Computer Vision. I've applied AI solutions in Agriculture, Aquaculture, and Satellite imaging. Currently exploring MLOps, LLMs, and Rust.
 - 🔭 Currently working as an AI Engineer (Remote)
 - 🌱 Learning MLOps, LLMs, and Rust
 - 💼 Experienced in end-to-end AI inference optimization and MLOps integration
+
 
 ## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTBxbDhpamx2emEzeTJmMjNneXIwNmQyajlpbHo4cXV5YmlwYjlqZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/ksE9feSa2b4V2GYwY4/giphy.gif" width="30"> Main Technologies
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,python,rust,pytorch,opencv,fastapi,redis,postgres,vscode,git,docker,kubernetes,prometheus,grafana&theme=light"/>
+    <img src="https://skillicons.dev/icons?i=bash,python,rust,pytorch,opencv,fastapi,redis,postgres,vscode,git,docker,kubernetes,prometheus,grafana,azure&theme=light"/>
   </a>
 </p>
 
-### Favorit Stack
-<p align="center">
-ONNX | ClearML | FiftyOne | Docker | Azure ML | TensorRT | Edge Impulse
-</p>
+
+<div align="center">
+<h3> Favorite Stack </h3>
+ClearML | ONNX  | FiftyOne | Pytorch Lightning | TensorRT | Triton Inference Server | Edge Impulse
+</div>
 
 ## <img src="https://media.giphy.com/media/W1wiffohJYvPtQuA8O/giphy.gif" width="35"> My Latest Blog Posts
 
