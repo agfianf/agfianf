@@ -11,27 +11,24 @@ Experienced AI Engineer and Software Engineer from Indonesia with over 4 years o
 - 🌱 Learning MLOps, LLMs, and Rust
 - 💼 Experienced in end-to-end AI inference optimization and MLOps integration
 
-
-
-
-
-
 ## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTBxbDhpamx2emEzeTJmMjNneXIwNmQyajlpbHo4cXV5YmlwYjlqZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/ksE9feSa2b4V2GYwY4/giphy.gif" width="30"> Main Technologies
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,python,pytorch,opencv,fastapi,redis,postgres,vscode,git,docker,prometheus,grafana&theme=light"/>
+    <img src="https://skillicons.dev/icons?i=bash,python,rust,pytorch,opencv,fastapi,redis,postgres,vscode,git,docker,kubernetes,prometheus,grafana&theme=light"/>
   </a>
 </p>
 
+### Favorit Stack
+<p align="center">
+ONNX | ClearML | FiftyOne | Docker | Azure ML | TensorRT | Edge Impulse
+</p>
 
 ## <img src="https://media.giphy.com/media/W1wiffohJYvPtQuA8O/giphy.gif" width="35"> My Latest Blog Posts
 
 I write about software engineering, programming, and AI. Please check out my latest blog posts, give some feedback. Any feedback is appreciated 😄
 
 - [Monitoring fastapi with RED Metrics](https://agfianf.github.io/blog/2025/02/24/monitoring-fastapi-applications-with-red-metrics/)
-
-
 
 
 
