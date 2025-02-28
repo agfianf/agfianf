@@ -1,8 +1,11 @@
 <h1 align="center"><b>Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Agfian </b></h1>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/magfianf/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://agfianf.github.io/about/" target="_blank"><img alt="About Me" src="https://img.shields.io/badge/About-Me-gray?style=for-the-badge"/></a>
+  <a href="mailto:muhammadagfian96@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/eMail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/magfianf/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://agfianf.github.io/about/" target="_blank"><img alt="About Me" src="https://img.shields.io/badge/About-Me-gray?style=for-the-badge"/></a>
 </p>
 
 AI Engineer and Software Engineer from Indonesia with 4+ years of experience. I'm a self-learner who thrives on exploration and continuous growth. I love building AI and Machine Learning systems, especially in Computer Vision. I've applied AI solutions in Agriculture, Aquaculture, and Satellite imaging. Currently exploring MLOps, LLMs, and Rust.
@@ -24,6 +27,14 @@ AI Engineer and Software Engineer from Indonesia with 4+ years of experience. I'
 <h3> Favorite Stack </h3>
 ClearML | ONNX  | FiftyOne | Pytorch Lightning | TensorRT | Triton Inference Server | Edge Impulse
 </div>
+
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjlkMDZ4amt6Y2h3cG15c2Z3d3RheDR3Mmh4YXh3YzcxOGFva2I3cyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/zOx4kKZLsfuqShoh2t/giphy.gif" width="30" > Projects
+
+### [Color Correction](https://agfianf.github.io/color-correction/)
+  
+  This package is designed to perform color correction on images using the Color Checker Classic 24 Patch card. It provides a robust solution for ensuring accurate color representation in your images.
+
+
 
 ## <img src="https://media.giphy.com/media/W1wiffohJYvPtQuA8O/giphy.gif" width="35"> My Latest Blog Posts
 
