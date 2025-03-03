@@ -8,9 +8,10 @@
   <a href="https://agfianf.github.io/about/" target="_blank"><img alt="About Me" src="https://img.shields.io/badge/About-Me-gray?style=for-the-badge"/></a>
 </p>
 
-AI Engineer and Software Engineer from Indonesia with 4+ years of experience. I'm a self-learner who thrives on exploration and continuous growth. I love building AI and Machine Learning systems, especially in Computer Vision. I've applied AI solutions in Agriculture, Aquaculture, and Satellite imaging. Currently exploring MLOps, LLMs, and Rust.
+AI Engineer and Software Engineer from Indonesia with 4+ years of experience. I'm a self-learner who thrives on exploration and continuous growth. I love building AI and Machine Learning systems, especially in Computer Vision. I've applied AI solutions in Agriculture, Aquaculture, and Satellite imaging.
+
 - 🔭 Currently working as an AI Engineer (Remote)
-- 🌱 Learning MLOps, LLMs, and Rust
+- 🌱 Currently Learning MLOps (DevOps), LLMs, and Rust
 - 💼 Experienced in end-to-end AI inference optimization and MLOps integration
 
 
@@ -24,8 +25,8 @@ AI Engineer and Software Engineer from Indonesia with 4+ years of experience. I'
 
 
 <div align="center">
-<h3> Favorite Stack </h3>
-ClearML | ONNX  | FiftyOne | Pytorch Lightning | TensorRT | Triton Inference Server | Edge Impulse
+<h3> Another Tech </h3>
+<b>ClearML</b> | ONNX  | FiftyOne | Pytorch Lightning | TensorRT | Triton Inference Server | Edge Impulse | PostGIS | Streamlit | Gradio | CVAT
 </div>
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjlkMDZ4amt6Y2h3cG15c2Z3d3RheDR3Mmh4YXh3YzcxOGFva2I3cyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/zOx4kKZLsfuqShoh2t/giphy.gif" width="30" > Projects
@@ -40,6 +41,7 @@ ClearML | ONNX  | FiftyOne | Pytorch Lightning | TensorRT | Triton Inference Ser
 
 I write about software engineering, programming, and AI. Please check out my latest blog posts, give some feedback. Any feedback is appreciated 😄
 
+- [Hands-On Monitoring & Alerting with Node Exporter, Prometheus, and Grafana Dashboards](https://agfianf.github.io/blog/2025/03/03/task-12-hands-on-monitoring--alerting-with-node-exporter-prometheus-and-grafana-dashboards/)
 - [Monitoring fastapi with RED Metrics](https://agfianf.github.io/blog/2025/02/24/monitoring-fastapi-applications-with-red-metrics/)
 
 
