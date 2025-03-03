@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Agfian </b></h1>
 
 <p align="center">
-  <a href="mailto:muhammadagfian96@gmail.com" target="_blank">
+  <a href="mailto:agfianfd@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/eMail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/magfianf/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
