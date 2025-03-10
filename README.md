@@ -41,6 +41,7 @@ AI Engineer and Software Engineer from Indonesia with 4+ years of experience. I'
 
 I write about software engineering, programming, and AI. Please check out my latest blog posts, give some feedback. Any feedback is appreciated 😄
 
+- [[DevOps] Hands On Setup NGINX with multiple instance using Terraform](https://agfianf.github.io/blog/2025/03/09/hands-on-terraform-material-terraform/)
 - [[DevOps] Hands On Setup NGINX with Ansible](https://agfianf.github.io/blog/2025/03/08/hands-on-setup-nginx-with-ansible/)
 - [[Satellite] Optimizing Satellite Maps: Efficiently Rendering 700K++ Object Polygons and Their Attributes](https://agfianf.github.io/blog/2025/03/04/optimizing-satellite-maps-efficiently-rendering-700k-object-polygons-and-their-attributes/)
 - [[DevOps] Hands-On Monitoring & Alerting with Node Exporter, Prometheus, and Grafana Dashboards](https://agfianf.github.io/blog/2025/03/03/task-12-hands-on-monitoring--alerting-with-node-exporter-prometheus-and-grafana-dashboards/)
