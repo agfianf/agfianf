@@ -19,7 +19,7 @@ AI Engineer and Software Engineer from Indonesia with 4+ years of experience. I'
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,python,rust,pytorch,opencv,fastapi,redis,postgres,vscode,git,docker,kubernetes,prometheus,grafana,azure&theme=light"/>
+    <img src="https://skillicons.dev/icons?i=bash,python,rust,pytorch,opencv,fastapi,redis,postgres,vscode,git,docker,kubernetes,prometheus,grafana,azure,gcp,ansible,terraform&theme=light"/>
   </a>
 </p>
 
