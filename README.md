@@ -19,7 +19,7 @@ AI Engineer and Software Engineer from Indonesia with 4+ years of experience. I'
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,python,rust,pytorch,opencv,fastapi,redis,postgres,vscode,git,docker,kubernetes,prometheus,grafana,azure,gcp,ansible,terraform&theme=light"/>
+    <img src="https://skillicons.dev/icons?i=bash,python,rust,pytorch,opencv,fastapi,redis,postgres,vscode,git,docker,kubernetes,prometheus,grafana,azure,gcp,ansible,terraform,jenkins&theme=light"/>
   </a>
 </p>
 
@@ -41,6 +41,7 @@ AI Engineer and Software Engineer from Indonesia with 4+ years of experience. I'
 
 I write about software engineering, programming, and AI. Please check out my latest blog posts, give some feedback. Any feedback is appreciated 😄
 
+- [[DevOps] Hands-On Running Simple Job using Jenkins](https://agfianf.github.io/blog/2025/03/25/hands-on-with-jenkins-fontawesome-brands-jenkins/)
 - [[DevOps] Hands On Setup NGINX with multiple instance using Terraform](https://agfianf.github.io/blog/2025/03/09/hands-on-terraform-material-terraform/)
 - [[DevOps] Hands On Setup NGINX with Ansible](https://agfianf.github.io/blog/2025/03/08/hands-on-setup-nginx-with-ansible/)
 - [[Satellite] Optimizing Satellite Maps: Efficiently Rendering 700K++ Object Polygons and Their Attributes](https://agfianf.github.io/blog/2025/03/04/optimizing-satellite-maps-efficiently-rendering-700k-object-polygons-and-their-attributes/)
