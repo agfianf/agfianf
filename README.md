@@ -42,7 +42,7 @@ AI Engineer and Software Engineer from Indonesia with 4+ years of experience. I'
 
   | Category | Title                                                                                                                                                                                          |
   | :------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-  | DevOps   | [Hands-On Self Hosted Gitlab CI/CD with Terraform](https://agfianf.github.io/blog/2025/04/13/hands-on-gitlab-cicd/#codes)                                                                       |
+  | DevOps   | [Hands-On Self Hosted Gitlab CI/CD with Terraform](https://agfianf.github.io/blog/2025/04/13/hands-on-gitlab-cicd/)                                                                       |
   | DevOps   | [Hands-On Running Simple Job using Jenkins](https://agfianf.github.io/blog/2025/03/25/hands-on-with-jenkins-fontawesome-brands-jenkins/)                                                         |
   | DevOps   | [Hands On Setup NGINX with multiple instance using Terraform](https://agfianf.github.io/blog/2025/03/09/hands-on-terraform-material-terraform/)                                                  |
   | DevOps   | [Hands On Setup NGINX with Ansible](https://agfianf.github.io/blog/2025/03/08/hands-on-setup-nginx-with-ansible/)                                                                                |
