@@ -46,7 +46,7 @@ AI Engineer and Software Engineer from Indonesia with 4+ years of experience. I'
   | DevOps   | [Hands-On Running Simple Job using Jenkins](https://agfianf.github.io/blog/2025/03/25/hands-on-with-jenkins-fontawesome-brands-jenkins/)                                                         |
   | DevOps   | [Hands On Setup NGINX with multiple instance using Terraform](https://agfianf.github.io/blog/2025/03/09/hands-on-terraform-material-terraform/)                                                  |
   | DevOps   | [Hands On Setup NGINX with Ansible](https://agfianf.github.io/blog/2025/03/08/hands-on-setup-nginx-with-ansible/)                                                                                |
-  | AI       | [Optimizing Satellite Maps: Efficiently Rendering 700K++ Object Polygons and Their Attributes](https://agfianf.github.io/blog/2025/03/04/optimizing-satellite-maps-efficiently-rendering-700k-object-polygons-and-their-attributes/) |
+  | Backend       | [Optimizing Satellite Maps: Efficiently Rendering 700K++ Object Polygons and Their Attributes](https://agfianf.github.io/blog/2025/03/04/optimizing-satellite-maps-efficiently-rendering-700k-object-polygons-and-their-attributes/) |
   | DevOps   | [Hands-On Monitoring & Alerting with Node Exporter, Prometheus, and Grafana Dashboards](https://agfianf.github.io/blog/2025/03/03/task-12-hands-on-monitoring--alerting-with-node-exporter-prometheus-and-grafana-dashboards/)      |
   | Backend  | [Monitoring fastapi with RED Metrics](https://agfianf.github.io/blog/2025/02/24/monitoring-fastapi-applications-with-red-metrics/)                                                               |
 
