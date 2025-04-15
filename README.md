@@ -36,18 +36,19 @@ AI Engineer and Software Engineer from Indonesia with 4+ years of experience. I'
   This package is designed to perform color correction on images using the Color Checker Classic 24 Patch card. It provides a robust solution for ensuring accurate color representation in your images.
 
 
+  ## <img src="https://media.giphy.com/media/W1wiffohJYvPtQuA8O/giphy.gif" width="35"> My Latest Blog Posts
 
-## <img src="https://media.giphy.com/media/W1wiffohJYvPtQuA8O/giphy.gif" width="35"> My Latest Blog Posts
+  I write about software engineering, programming, and AI. Please check out my latest blog posts, give some feedback. Any feedback is appreciated 😄
 
-I write about software engineering, programming, and AI. Please check out my latest blog posts, give some feedback. Any feedback is appreciated 😄
-
-- [[DevOps] Hands-On Running Simple Job using Jenkins](https://agfianf.github.io/blog/2025/03/25/hands-on-with-jenkins-fontawesome-brands-jenkins/)
-- [[DevOps] Hands On Setup NGINX with multiple instance using Terraform](https://agfianf.github.io/blog/2025/03/09/hands-on-terraform-material-terraform/)
-- [[DevOps] Hands On Setup NGINX with Ansible](https://agfianf.github.io/blog/2025/03/08/hands-on-setup-nginx-with-ansible/)
-- [[Satellite] Optimizing Satellite Maps: Efficiently Rendering 700K++ Object Polygons and Their Attributes](https://agfianf.github.io/blog/2025/03/04/optimizing-satellite-maps-efficiently-rendering-700k-object-polygons-and-their-attributes/)
-- [[DevOps] Hands-On Monitoring & Alerting with Node Exporter, Prometheus, and Grafana Dashboards](https://agfianf.github.io/blog/2025/03/03/task-12-hands-on-monitoring--alerting-with-node-exporter-prometheus-and-grafana-dashboards/)
-- [[Backend] Monitoring fastapi with RED Metrics](https://agfianf.github.io/blog/2025/02/24/monitoring-fastapi-applications-with-red-metrics/)
-
+  | Category | Title                                                                                                                                                                                          |
+  | :------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+  | DevOps   | [Hands-On Self Hosted Gitlab CI/CD with Terraform](https://agfianf.github.io/blog/2025/04/13/hands-on-gitlab-cicd/#codes)                                                                       |
+  | DevOps   | [Hands-On Running Simple Job using Jenkins](https://agfianf.github.io/blog/2025/03/25/hands-on-with-jenkins-fontawesome-brands-jenkins/)                                                         |
+  | DevOps   | [Hands On Setup NGINX with multiple instance using Terraform](https://agfianf.github.io/blog/2025/03/09/hands-on-terraform-material-terraform/)                                                  |
+  | DevOps   | [Hands On Setup NGINX with Ansible](https://agfianf.github.io/blog/2025/03/08/hands-on-setup-nginx-with-ansible/)                                                                                |
+  | AI       | [Optimizing Satellite Maps: Efficiently Rendering 700K++ Object Polygons and Their Attributes](https://agfianf.github.io/blog/2025/03/04/optimizing-satellite-maps-efficiently-rendering-700k-object-polygons-and-their-attributes/) |
+  | DevOps   | [Hands-On Monitoring & Alerting with Node Exporter, Prometheus, and Grafana Dashboards](https://agfianf.github.io/blog/2025/03/03/task-12-hands-on-monitoring--alerting-with-node-exporter-prometheus-and-grafana-dashboards/)      |
+  | Backend  | [Monitoring fastapi with RED Metrics](https://agfianf.github.io/blog/2025/02/24/monitoring-fastapi-applications-with-red-metrics/)                                                               |
 
 
 <!--
