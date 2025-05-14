@@ -31,12 +31,17 @@ AI Engineer and Software Engineer from Indonesia with 4+ years of experience. I'
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjlkMDZ4amt6Y2h3cG15c2Z3d3RheDR3Mmh4YXh3YzcxOGFva2I3cyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/zOx4kKZLsfuqShoh2t/giphy.gif" width="30" > Projects
 
-### [Color Correction](https://agfianf.github.io/color-correction/)
+| Category | Title | Description |
+| :------- | :-------- | :-------- |
+| `Computer Vision` | [Color Correction](https://agfianf.github.io/color-correction/) | This package is designed to perform color correction on images using the Color Checker Classic 24 Patch card. It provides a robust solution for ensuring accurate color representation in your images. |
+| `Backend` | [FastAPI Auth Service](https://github.com/agfianf/fastapi-auth-service) | Auth Service is a microservice responsible for handling user authentication, authorization, and role-based access control (RBAC) in a distributed system.|
+| `MLOps`, `Computer Vision` | [Template Ultralytics ClearML](https://github.com/agfianf/template-yolov8-clearml) | A robust, reproducible template for training Ultralytics YOLOv8/YOLO11 models with full ClearML integration. This project enables experiment tracking, dataset management, model registration, and remote execution, supporting multiple data sources and advanced data filtering.|
+| `Backend` | [Reverse Geocode](https://github.com/agfianf/reverse-geocode-api) | Reverse Geocode is an API that takes latitude and longitude as input and returns the corresponding address (Kecamatan/District, Kabupaten/Regency, Provinsi/Province, and Country).|
   
-  This package is designed to perform color correction on images using the Color Checker Classic 24 Patch card. It provides a robust solution for ensuring accurate color representation in your images.
+  
 
 
-  ## <img src="https://media.giphy.com/media/W1wiffohJYvPtQuA8O/giphy.gif" width="35"> My Latest Blog Posts
+## <img src="https://media.giphy.com/media/W1wiffohJYvPtQuA8O/giphy.gif" width="35"> My Latest Blog Posts
 
   I write about software engineering, programming, and AI. Please check out my latest blog posts, give some feedback. Any feedback is appreciated 😄
 
