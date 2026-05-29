@@ -15,19 +15,7 @@ AI Engineer and Software Engineer from Indonesia with 4+ years of experience. I'
 - 💼 Experienced in end-to-end AI inference optimization and MLOps integration
 
 
-## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTBxbDhpamx2emEzeTJmMjNneXIwNmQyajlpbHo4cXV5YmlwYjlqZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/ksE9feSa2b4V2GYwY4/giphy.gif" width="30"> Main Technologies
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,python,rust,pytorch,opencv,fastapi,redis,postgres,vscode,git,docker,kubernetes,prometheus,grafana,azure,gcp,ansible,terraform,jenkins&theme=light"/>
-  </a>
-</p>
-
-
-<div align="center">
-<h3> Another Tech </h3>
-<b>ClearML</b> | ONNX  | FiftyOne | Pytorch Lightning | TensorRT | Triton Inference Server | Edge Impulse | PostGIS | Streamlit | Gradio | CVAT
-</div>
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjlkMDZ4amt6Y2h3cG15c2Z3d3RheDR3Mmh4YXh3YzcxOGFva2I3cyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/zOx4kKZLsfuqShoh2t/giphy.gif" width="30" > Projects
 
